@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChuckNorrisJokes</string>
+    <string name="jokes">Jokes</string>
+    <string name="web">Web</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reload">Reload</string>
+    <string name="count">Count</string>
+    <string name="number_error">Not a valid number</string>
+    <string name="internet_error">Check your Internet connection and try again</string>
+</resources>
